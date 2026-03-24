@@ -1,4 +1,4 @@
-## MySQL + phpMyAdmin
+## Docker compose конетейнеры c MySQL + phpMyAdmin
 
 ### Процесс создания Docker проекта MySql+phpMyAdmin
 
@@ -206,3 +206,5 @@ docker images
 ```shell
 docker rmi 1b3a22d17cb6
 ```
+
+> Если вы обнаружили ошибку в этом тексте - сообщите пожалуйста автору!
